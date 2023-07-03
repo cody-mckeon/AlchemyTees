@@ -33,7 +33,7 @@ const data = {
       price: 30,
       countInStock: 10,
       brand: 'Sick',
-      rating: 4.5,
+      rating: 2,
       numReviews: 10,
       description: 'sick design and comfy fit',
     },
