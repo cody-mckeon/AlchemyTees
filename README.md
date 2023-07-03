@@ -36,3 +36,28 @@ GitHub Commands
 20. create route for /api/products
 21. return products
 22. run npm start
+
+AJAX Fetch products from backend
+
+1. set proxy in package.json
+2. npm install axios
+3. use state hook
+4. use effect hook
+5. use reducer hook
+
+Manage state by reducer Hook
+
+1. define reducer
+2. update fetch data
+3. get state form useReducer
+
+Create Product and Rating Component
+
+1. create Rating component .
+2. create product component.
+3. Use Rating component in product component.
+
+Create Product Details Screen
+
+1. fetch product from backend
+2. create 3 columns for image, info, and action
