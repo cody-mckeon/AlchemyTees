@@ -5,6 +5,7 @@
 const data = {
   products: [
     {
+      _id: 1,
       name: 'Sick tee 1',
       slug: 'sick-tee-1',
       image: '/images/p1.jpg',
@@ -16,6 +17,7 @@ const data = {
       description: 'sick design and comfy fit',
     },
     {
+      _id: 2,
       name: 'Sick tee 2',
       slug: 'sick-tee-2',
       image: '/images/p2.jpg',
@@ -27,6 +29,7 @@ const data = {
       description: 'sick design and comfy fit',
     },
     {
+      _id: 3,
       name: 'Sick tee 3',
       slug: 'sick-tee-3',
       image: '/images/p3.jpg',
@@ -38,6 +41,7 @@ const data = {
       description: 'sick design and comfy fit',
     },
     {
+      _id: 4,
       name: 'Sick tee 4',
       slug: 'sick-tee-4',
       image: '/images/p4.jpg',
